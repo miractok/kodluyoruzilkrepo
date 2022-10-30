@@ -29,6 +29,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
+![Kodluyoruz Logo](https://github.com/miractok/kodluyoruzilkrepo/blob/main/proje.JPG)
 
 [patika linki](www.patika.dev)
